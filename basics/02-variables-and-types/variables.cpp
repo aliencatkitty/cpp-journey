@@ -1,3 +1,7 @@
+/* created by aliencatkitty
+ this code is to show variables and types in C++
+ and document my progress learning C++ */
+
 #include <iostream>
 #include <string>
 //variables outside main are global

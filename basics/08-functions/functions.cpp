@@ -1,3 +1,7 @@
+/* created by aliencatkitty
+ this code is to show functions in C++
+ and document my progress learning C++ */
+
 #include <iostream>
 using namespace std;
 int sum(int a, int b, int c) {

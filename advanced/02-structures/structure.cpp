@@ -1,3 +1,7 @@
+/* created by aliencatkitty
+ this code is to show structures in C++
+ and document my progress learning C++ */
+ 
 #include <iostream>
 #include <string>
 using namespace std;
@@ -11,10 +15,8 @@ int main() {
     b1.name = "pudim";
     b1.age = 2;
     b1.race = "holland lop";
-    bunny b2;
-    b2.name = "pipoca";
-    b2.age = 1;
-    b2.race = "mini lop";
+    bunny b2 = {"pipoca", 1, "mini lop"};
+    //2 ways to start a struct
     cout << "bunny 1: " << b1.name << " " << b1.age << " " << b1.race << endl;
     cout << "bunny 2: " << b2.name << " " << b2.age << " " << b2.race << endl;
     cout << "bunny bunny bunny bunny bunny bunny bunny bunny";

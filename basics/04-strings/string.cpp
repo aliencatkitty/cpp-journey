@@ -1,3 +1,7 @@
+/* created by aliencatkitty
+ this code is to show strings in C++
+ and document my progress learning C++ */
+
 #include <iostream>
 #include <string>
 using namespace std;

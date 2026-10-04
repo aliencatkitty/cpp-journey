@@ -1,3 +1,7 @@
+/* created by aliencatkitty
+ this code is to show arrays in C++
+ and document my progress learning C++ */
+
 #include <iostream>
 #include <string>
 int main() {
