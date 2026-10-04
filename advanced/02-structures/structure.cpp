@@ -5,6 +5,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+//in C I would have to use typedef
 struct bunny { //I can store coherent data, so it's different from a array that is only the same data
     string name;
     int age;
